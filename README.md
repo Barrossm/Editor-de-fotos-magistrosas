@@ -29,17 +29,17 @@ git clone [https://github.com/Barrossm/Editor-de-fotos-magistrosas.git](https://
 
 ```
 
-Acesse a pasta do projeto:
+1° - Acesse a pasta do projeto:
 
 Bash
 cd "Editor-de-fotos-magistrosas"
 
-Instale as bibliotecas necessárias (recomenda-se o uso de um ambiente virtual - .venv):
+2° - Instale as bibliotecas necessárias (recomenda-se o uso de um ambiente virtual - .venv):
 
 Bash
 pip install customtkinter opencv-python pillow
 
-Inicie o aplicativo:
+3° - Inicie o aplicativo:
 
 Bash
 python TelaPrincipal.py
