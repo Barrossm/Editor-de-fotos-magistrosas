@@ -33,13 +33,16 @@ Acesse a pasta do projeto:
 
 Bash
 cd "Editor-de-fotos-magistrosas"
+
 Instale as bibliotecas necessárias (recomenda-se o uso de um ambiente virtual - .venv):
 
 Bash
 pip install customtkinter opencv-python pillow
+
 Inicie o aplicativo:
 
 Bash
 python TelaPrincipal.py
+
 👨‍💻 Autor
 Gabriel Barros de Morais
