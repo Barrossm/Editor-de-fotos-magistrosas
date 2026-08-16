@@ -2,7 +2,7 @@
 
 Um editor de imagens desenvolvido em Python com foco em aplicar conceitos práticos de **Visão Computacional** e **Fotografia Computacional**. O projeto utiliza uma interface gráfica moderna para capturar e processar pixels, servindo como laboratório para a criação de filtros e manipulação de matrizes de imagens.
 
-Este projeto faz parte dos meus estudos e desenvolvimentos práticos no bacharelado em Ciência da Computação (BCC) na UFRPE.
+Este projeto faz parte dos meus estudos e desenvolvimentos práticos no bacharelado em Ciência da Computação (BCC) na UFRPE juntamente com meus aprendizados no curso de Fotografia Computacional no CIn da UFPE.
 
 ## 🚀 Funcionalidades Atuais
 
